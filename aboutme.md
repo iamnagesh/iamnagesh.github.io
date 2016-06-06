@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Everything is the world is data(at least for me)
+subtitle: Everything in the world is data(at least for me)
 ---
 
 My name is Nagesh Kommuri. I have the following qualities:
