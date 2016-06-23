@@ -44,7 +44,7 @@ author:
   facebook: iamknagesh  # eg. daattali
   github: iamnagesh    # eg. daattali
   twitter: yourname   # eg. daattali
-  linkedin: iamknagesh  # eg. "pub/dean-attali/8/946/143"
+  linkedin: /in/iamknagesh  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: 2625338/nagesh  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
@@ -59,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kaggle.com/nageshk"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "kaggle.com/nageshk"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
