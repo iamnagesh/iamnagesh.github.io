@@ -28,7 +28,7 @@ navbar-links:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
-  My kaggle profile: "https://www.kaggle.com/nageshk"
+  CV: "https://www.dropbox.com/s/09g08ra8qftijek/Nagesh_2Years_DataScience.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
